@@ -1,0 +1,126 @@
+# Copyright (C) 2019 meks-easy-social-share
+# This file is distributed under the same license as the meks-easy-social-share package.
+msgid ""
+msgstr ""
+"Project-Id-Version: meks-easy-social-share\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/class-share.php:108
+msgid "Platforms"
+msgstr ""
+
+#: inc/class-share.php:114
+msgid "Style"
+msgstr ""
+
+#: inc/class-share.php:120
+msgid "Variant"
+msgstr ""
+
+#: inc/class-share.php:126
+msgid "Color"
+msgstr ""
+
+#: inc/class-share.php:135
+msgid "Location"
+msgstr ""
+
+#: inc/class-share.php:141
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-share.php:147
+msgid "Share label"
+msgstr ""
+
+#: inc/class-share.php:170
+msgid "Settings"
+msgstr ""
+
+#: inc/class-share.php:182, inc/class-share.php:183
+msgid "Meks Easy Social Share"
+msgstr ""
+
+#: inc/class-share.php:472
+msgid "Note: To reorder platforms just click, hold, and drag them."
+msgstr ""
+
+#: inc/class-share.php:542
+msgid "Brand"
+msgstr ""
+
+#: inc/class-share.php:549
+msgid "Custom"
+msgstr ""
+
+#: inc/class-share.php:570
+msgid "Above content"
+msgstr ""
+
+#: inc/class-share.php:577
+msgid "Below content"
+msgstr ""
+
+#: inc/class-share.php:584
+msgid "Above and below content"
+msgstr ""
+
+#: inc/class-share.php:591
+msgid "Custom (template tag) use:"
+msgstr ""
+
+#: inc/class-share.php:639
+msgid "Enabled"
+msgstr ""
+
+#: inc/class-share.php:658
+msgid "Share this"
+msgstr ""
+
+#: inc/functions.php:35
+msgid "Facebook"
+msgstr ""
+
+#: inc/functions.php:36
+msgid "Twitter"
+msgstr ""
+
+#: inc/functions.php:37
+msgid "Google+"
+msgstr ""
+
+#: inc/functions.php:40
+msgid "Pinterest"
+msgstr ""
+
+#: inc/functions.php:41
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/functions.php:42
+msgid "Reddit"
+msgstr ""
+
+#: inc/functions.php:43
+msgid "Email"
+msgstr ""
+
+#: inc/functions.php:44
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/functions.php:45
+msgid "vKontakte"
+msgstr ""
+
+#: inc/functions.php:46
+msgid "WhatsApp"
+msgstr ""

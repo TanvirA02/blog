@@ -1,0 +1,17 @@
+.meks-instagram-widget-input-slider {
+	position: relative;
+    width: 90%;
+    margin-top: -4px;
+}
+
+.meks-instagram-widget-slider-opt-count {
+	position: relative;
+    float: right;
+    margin: -2px 0 0 0;
+}
+.mks_profile_info{
+    margin: 0;
+}
+.mks_profile_info img{
+    border-radius: 50%;
+}

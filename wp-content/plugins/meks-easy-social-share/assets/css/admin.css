@@ -1,0 +1,74 @@
+/* General */
+
+.settings_page_meks-easy-social-share td {
+    max-width: 450px;
+}
+.settings_page_meks-easy-social-share .wp-picker-container {
+    margin-top: 5px;
+}
+.meks_ess_clear::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.meks_ess_clear {
+    margin-bottom: 10px;
+}
+
+/* Platforms checkbox */
+.platforms-sortable label {
+    display: block;
+    height: 20px;
+    line-height: 20px;
+    cursor: move;
+    max-width: 320px;
+}
+.platforms-sortable input {
+    cursor: pinter;
+}
+.platforms-sortable .drag { 
+    cursor: move; 
+}
+.platforms-state-highlight {
+    height: 20px; 
+    line-height: 20px;
+    border: 1px dashed #a2a2a2;
+}
+.platforms-note {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+
+/* Style radio buttons */
+
+.meks-ess-style {
+    display: block;
+    float: left;
+    margin-right: 10px;
+}
+.meks-ess-style span {
+    display: block;
+    text-align: center;
+}
+.meks-ess-style input[type=radio] { 
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+} 
+.meks-ess-style input[type=radio] + img {
+    cursor: pointer;
+}
+.meks-ess-style input[type=radio]:checked + img {
+    outline: 2px solid #1e8cbe;
+}
+.meks-ess-style input[type=radio]:disabled + img {
+    opacity: .4;
+    outline: 2px solid transparent;
+    cursor: no-drop;
+}
+.meks-ess-style input[type=radio]:disabled + img + span {
+    opacity: .4;
+    cursor: no-drop;
+}

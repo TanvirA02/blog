@@ -1,0 +1,8 @@
+{
+  "name": "typology-buddy",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sort": "^2.0.0",
+    "gulp-wp-pot": "^2.0.7"
+  }
+}
